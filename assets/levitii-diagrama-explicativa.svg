@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f8edcf"/><stop offset="1" stop-color="#e8d4a8"/></linearGradient><linearGradient id="cloth" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d9d6c9"/></linearGradient><linearGradient id="g" x2="0" y2="1"><stop stop-color="#fff0a0"/><stop offset="1" stop-color="#b87920"/></linearGradient><marker id="a" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#8b3e25"/></marker></defs>
+<rect width="1600" height="850" rx="30" fill="url(#bg)"/><text x="800" y="65" text-anchor="middle" font-family="Georgia" font-size="43" font-weight="bold" fill="#1e3555">Cum era purtat Chivotul?</text><text x="800" y="105" text-anchor="middle" font-family="Arial" font-size="22" fill="#70532c">Schemă didactică după Numeri 4:5–15 și 1 Cronici 15:2, 13–15</text>
+<!-- figures -->
+<g stroke="#28364b" stroke-width="8" stroke-linecap="round">
+ <circle cx="520" cy="300" r="48" fill="#b97845"/><path d="M520 350L520 555M520 405L420 470M520 405L620 470M520 555L450 670M520 555L590 670" fill="none"/>
+ <circle cx="1080" cy="300" r="48" fill="#b97845"/><path d="M1080 350L1080 555M1080 405L980 470M1080 405L1180 470M1080 555L1010 670M1080 555L1150 670" fill="none"/>
+</g>
+<path d="M475 355L565 355L600 555L440 555Z" fill="url(#cloth)" stroke="#b6a98e" stroke-width="5"/><path d="M1035 355L1125 355L1160 555L1000 555Z" fill="url(#cloth)" stroke="#b6a98e" stroke-width="5"/>
+<!-- pole and ark -->
+<path d="M350 485H1250" stroke="#8b5527" stroke-width="24" stroke-linecap="round"/><path d="M350 480H1250" stroke="url(#g)" stroke-width="9" stroke-linecap="round"/>
+<path d="M650 440H950L930 545H670Z" fill="url(#g)" stroke="#80501c" stroke-width="8"/><path d="M635 425H965V450H635Z" fill="#f8d36e" stroke="#80501c" stroke-width="6"/><path d="M720 415Q680 350 730 300Q760 340 780 410M880 415Q920 350 870 300Q840 340 820 410" fill="url(#g)" stroke="#80501c" stroke-width="6"/>
+<!-- callouts -->
+<g stroke="#8b3e25" stroke-width="5" fill="none" marker-end="url(#a)"><path d="M340 220L430 220L500 400"/><path d="M1260 230L1160 230L1090 465"/><path d="M800 650L800 570"/></g>
+<g font-family="Arial">
+<rect x="65" y="155" width="360" height="150" rx="22" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="95" y="198" font-size="29" font-weight="bold" fill="#1e3555">1. Preoții pregăteau</text><text x="95" y="238" font-size="24" fill="#333">Aaron și fiii lui acopereau</text><text x="95" y="273" font-size="24" fill="#333">obiectele sfinte înainte de transport.</text>
+<rect x="1170" y="155" width="365" height="155" rx="22" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="1200" y="198" font-size="29" font-weight="bold" fill="#1e3555">2. Chehatiții purtau</text><text x="1200" y="238" font-size="24" fill="#333">Familia lui Chehat transporta</text><text x="1200" y="273" font-size="24" fill="#333">obiectele sfinte, fără să le atingă.</text>
+<rect x="515" y="675" width="570" height="125" rx="22" fill="#203957"/><text x="800" y="720" text-anchor="middle" font-size="29" font-weight="bold" fill="#ffe8ae">3. Drugii sprijineau transportul</text><text x="800" y="760" text-anchor="middle" font-size="23" fill="#fff">Chivotul era purtat pe umeri, nu într-un car. (1 Cronici 15:15)</text>
+</g></svg>
