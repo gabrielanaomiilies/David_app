@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120">
+<defs>
+ <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f8edcf"/><stop offset="1" stop-color="#e8d4a8"/></linearGradient>
+ <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff0a0"/><stop offset=".38" stop-color="#d99b2e"/><stop offset=".72" stop-color="#f6d36c"/><stop offset="1" stop-color="#895018"/></linearGradient>
+ <linearGradient id="wood" x2="0" y2="1"><stop stop-color="#b77936"/><stop offset="1" stop-color="#75451f"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#4b3214" flood-opacity=".22"/></filter>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#8b3e25"/></marker>
+</defs>
+<rect width="1800" height="1120" rx="34" fill="url(#bg)"/>
+<path d="M35 110H1765" stroke="#c49a55" stroke-width="3" opacity=".65"/>
+<text x="900" y="68" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="bold" fill="#1e3555">Chivotul Legământului – componente și explicații</text>
+<text x="900" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#70532c">Schemă explicativă după Exodul 25:10–22 · reconstituire, nu desen la scară</text>
+<!-- Ark chest -->
+<g filter="url(#shadow)">
+ <path d="M515 530 L1285 530 L1245 805 L555 805Z" fill="url(#gold)" stroke="#754414" stroke-width="12"/>
+ <path d="M535 565H1265L1242 620H558Z" fill="#9a5e1e" stroke="#f8d66e" stroke-width="8"/>
+ <path d="M558 635H1242V760H558Z" fill="url(#gold)" stroke="#80501c" stroke-width="8"/>
+ <path d="M585 655H1215V740H585Z" fill="none" stroke="#fff0a0" stroke-width="5"/>
+ <path d="M610 675Q900 640 1190 675M610 720Q900 750 1190 720" fill="none" stroke="#9a5c1e" stroke-width="5" opacity=".7"/>
+ <path d="M480 515H1320V560H480Z" fill="url(#gold)" stroke="#754414" stroke-width="9"/>
+ <path d="M470 490H1330V520H470Z" fill="#eebf50" stroke="#8c571d" stroke-width="7"/>
+ <!-- rings and poles -->
+ <path d="M500 690H1300" stroke="#78451b" stroke-width="25" stroke-linecap="round"/><path d="M500 685H1300" stroke="url(#gold)" stroke-width="12" stroke-linecap="round"/>
+ <path d="M520 675Q490 675 490 705Q490 735 520 735M1280 675Q1310 675 1310 705Q1310 735 1280 735" fill="none" stroke="#f6d36c" stroke-width="16"/>
+ <!-- cherubim -->
+ <path d="M735 475Q630 410 660 285Q735 330 790 430Q790 330 870 260Q900 370 840 480Z" fill="url(#gold)" stroke="#865018" stroke-width="9"/>
+ <path d="M1065 475Q1170 410 1140 285Q1065 330 1010 430Q1010 330 930 260Q900 370 960 480Z" fill="url(#gold)" stroke="#865018" stroke-width="9"/>
+ <ellipse cx="795" cy="430" rx="44" ry="58" fill="url(#gold)" stroke="#865018" stroke-width="7"/><ellipse cx="1005" cy="430" rx="44" ry="58" fill="url(#gold)" stroke="#865018" stroke-width="7"/>
+ <path d="M770 385Q795 350 820 385M980 385Q1005 350 1030 385" fill="none" stroke="#865018" stroke-width="7"/>
+ <path d="M790 478Q900 445 1010 478" fill="none" stroke="#fff0a0" stroke-width="9"/>
+</g>
+<!-- leader lines -->
+<g fill="none" stroke="#8b3e25" stroke-width="5" marker-end="url(#arrow)">
+ <path d="M420 265L570 265L670 585"/><path d="M1380 265L1260 265L1170 505"/><path d="M1390 470L1260 470L1100 425"/><path d="M390 820L505 820L590 710"/><path d="M1390 790L1280 790L1180 700"/>
+</g>
+<!-- labels -->
+<g font-family="Arial,sans-serif" filter="url(#shadow)">
+ <rect x="55" y="185" width="390" height="170" rx="24" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="85" y="230" font-size="30" font-weight="bold" fill="#1e3555">1. Cufărul din lemn de salcâm</text><text x="85" y="273" font-size="25" fill="#333">Lemnul forma structura;</text><text x="85" y="308" font-size="25" fill="#333">era poleit cu aur pe interior</text><text x="85" y="340" font-size="25" fill="#333">și pe exterior. (Exodul 25:10–11)</text>
+ <rect x="1350" y="175" width="395" height="165" rx="24" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="1380" y="220" font-size="30" font-weight="bold" fill="#1e3555">2. Capacul ispășirii</text><text x="1380" y="262" font-size="25" fill="#333">Din aur curat; așezat</text><text x="1380" y="297" font-size="25" fill="#333">deasupra chivotului.</text><text x="1380" y="329" font-size="23" fill="#333">(Exodul 25:17–22)</text>
+ <rect x="1350" y="390" width="395" height="175" rx="24" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="1380" y="435" font-size="30" font-weight="bold" fill="#1e3555">3. Doi heruvimi</text><text x="1380" y="477" font-size="25" fill="#333">Lucrați din aur, la capetele</text><text x="1380" y="512" font-size="25" fill="#333">capacului, cu aripile întinse</text><text x="1380" y="546" font-size="23" fill="#333">unul spre altul. (v. 18–20)</text>
+ <rect x="55" y="745" width="420" height="180" rx="24" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="85" y="790" font-size="30" font-weight="bold" fill="#1e3555">4. Verigi de aur</text><text x="85" y="832" font-size="25" fill="#333">Patru verigi fixate la colțuri;</text><text x="85" y="867" font-size="25" fill="#333">prin ele treceau drugii pentru</text><text x="85" y="902" font-size="25" fill="#333">transport. (Exodul 25:12–14)</text>
+ <rect x="1350" y="690" width="395" height="205" rx="24" fill="#fff9e9" stroke="#bd8a3c" stroke-width="4"/><text x="1380" y="735" font-size="30" font-weight="bold" fill="#1e3555">5. Drugii de transport</text><text x="1380" y="777" font-size="25" fill="#333">Lemn de salcâm poleit cu aur,</text><text x="1380" y="812" font-size="25" fill="#333">trecut prin verigi. Rămâneau</text><text x="1380" y="847" font-size="25" fill="#333">în verigi; chivotul era purtat</text><text x="1380" y="882" font-size="23" fill="#333">fără atingere directă. (v. 13–15)</text>
+</g>
+<rect x="515" y="930" width="770" height="115" rx="22" fill="#203957"/>
+<text x="900" y="974" text-anchor="middle" font-family="Georgia,serif" font-size="29" font-weight="bold" fill="#ffe8ae">Ce ne spune Biblia despre semnificație?</text>
+<text x="900" y="1015" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#fff">Chivotul păstra mărturia legământului; Dumnezeu promitea să Se întâlnească</text>
+<text x="900" y="1043" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#fff">cu Moise de deasupra capacului. (Exodul 25:16, 22)</text>
+</svg>
