@@ -1,0 +1,25 @@
+{
+  "titlu": "Marea aventură a Chivotului",
+  "public": "Școala duminicală · 10–12 ani",
+  "ideea_centrala": "Dumnezeu este sfânt și vrednic de respect. Închinarea sinceră merge împreună cu ascultarea de ceea ce a spus Dumnezeu.",
+  "referinte_principale": ["Exodul 25", "Numeri 4", "1 Samuel 7:1–2", "2 Samuel 6", "1 Cronici 13–16", "Evrei 9:4"],
+  "note_de_acuratete": [
+    "Masa cu pâinile pentru punerea înainte era un obiect separat al Cortului întâlnirii, nu o componentă a Chivotului.",
+    "Locul exact al casei lui Obed-Edom și al ariei lui Nacon/Chidon nu este identificat cu certitudine în text.",
+    "Harta din aplicație este schematică și nu pretinde să redea traseul antic exact sau o distanță măsurată.",
+    "Evrei 9:4 menționează vasul cu mană și toiagul lui Aaron în legătură cu Chivotul; textele din Exodul și Numeri descriu păstrarea lor înaintea mărturiei."
+  ],
+  "componente": [
+    {"nume":"Cufărul", "descriere":"Lemn de salcâm poleit cu aur pe dinăuntru și pe dinafară.", "referinta":"Exodul 25:10–11"},
+    {"nume":"Capacul ispășirii", "descriere":"Capac din aur curat, locul de deasupra căruia Dumnezeu a spus că Se va întâlni cu Moise.", "referinta":"Exodul 25:17–22"},
+    {"nume":"Heruvimii", "descriere":"Doi heruvimi din aur, cu aripile întinse deasupra capacului.", "referinta":"Exodul 25:18–20"},
+    {"nume":"Verigi și drugi", "descriere":"Sistemul prevăzut pentru transportarea Chivotului fără atingerea directă.", "referinta":"Exodul 25:12–15"}
+  ],
+  "cronologie": [
+    {"etapa":"Dorința lui David", "referinta":"2 Samuel 6:1–2"},
+    {"etapa":"Prima încercare și moartea lui Uza", "referinta":"2 Samuel 6:3–9"},
+    {"etapa":"Trei luni la Obed-Edom", "referinta":"2 Samuel 6:10–12"},
+    {"etapa":"A doua aducere, cu leviții", "referinta":"1 Cronici 15:11–15"},
+    {"etapa":"Sosirea și bucuria în Ierusalim", "referinta":"2 Samuel 6:12–19"}
+  ]
+}
